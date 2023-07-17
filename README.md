@@ -8,7 +8,7 @@ Ini adalah timeline pembelajaran saya selama masa SMK dengan kompetensi keahlian
 - Memulai pemrograman dasar dengan bahasa C
 
 ## Oktober 2021
-- Menyelesaikan modul pembelajaran pemrograman C
+- Menyelesaikan modul pembelajaran dasar pemrograman C
 - Memulai pemrograman dasar dengan bahasa PHP
 - Membuat simple CRUD dengan PHP Native
 
