@@ -38,14 +38,15 @@ Ini adalah timeline pembelajaran saya selama masa SMK dengan kompetensi keahlian
 - Mengikuti Cloud Computing Club Competition DKI Jakarta by Sagasitas dan AWS Indonesia
 - Memenangkan posisi ke-2 C4 by Sagasitas dan AWS Indonesia kategori SMK DKI-Jakarta dengan karya 'Arsene Project'
 - Menyelesaikan Praktik Kerja Lapangan dengan Predikat 'Sangat Baik'
-- <a href="https://www.github.com/nkymko/app-kominfotikjt">`https://www.github.com/nkymko/app-kominfotikjt`</a>
-- <a href="https://www.github.com/nkymko/arsene-project">`https://www.github.com/nkymko/arsene-project`</a>
+- <a href="https://www.github.com/nkymko/app-kominfotikjt">_`https://www.github.com/nkymko/app-kominfotikjt`_</a>
+- <a href="https://www.github.com/nkymko/arsene-project">_`https://www.github.com/nkymko/arsene-project`_</a>
 
 ## April - Mei 2023
 - Mengembangkan skill Front-End Development menggunakan Bootstrap dan Tailwind
 - Mempelajari Javascript pada Website Development
+- Membuat mockup E-Commerce dengan Bootstrap 5 dan Vanilla CSS
 - Memulai full stack development
-- <a href="https://www.github.com/nkymko/strumville">`https://www.github.com/nkymko/strumville`</a>
+- <a href="https://www.github.com/nkymko/strumville">_`https://www.github.com/nkymko/strumville`_</a>
 
 ## Juni 2023
 - Mempelajari basic Cyber Security
@@ -54,5 +55,5 @@ Ini adalah timeline pembelajaran saya selama masa SMK dengan kompetensi keahlian
 - Memulai Praktik Kerja Lapangan Sesi 2 di instansi Sudin Kominfotik Jakarta Timur
 - Mengembangkan UI website indeks informasi untuk kelurahan dan kecamatan di Jakarta Timur dengan menggunakan Bootstrap 5 dan Javascript
 - Membuat dan mengembangkan microsite barcode reader tanaman melalui website menggunakan PHP Framework Laravel 9 dan CSS Framework Bootstrap 5
-- <a href="https://www.github.com/nkymko/keckel">`https://www.github.com/nkymko/keckel`</a>
-- <a href="https://www.github.com/nkymko/tanaman-app">`https://www.github.com/nkymko/tanaman-app`</a>
+- <a href="https://www.github.com/nkymko/keckel">_`https://www.github.com/nkymko/keckel`_</a>
+- <a href="https://www.github.com/nkymko/tanaman-app">_`https://www.github.com/nkymko/tanaman-app`_</a>
