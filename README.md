@@ -25,12 +25,12 @@ Ini adalah timeline pembelajaran saya selama masa SMK dengan kompetensi keahlian
 - Mengikuti kompetisi nasional non-kedinasan Web Development by Technifest IT EXPO 2022
 - Membuat website dinamis dengan PHP Native Berorientasi Objek
 - Mendapatkan Juara Harapan pada kompetisi Web Development dengan karya 'Caltara'
-- <a href="https://www.github.com/nkymko/caltara">`https://www.github.com/nkymko/caltara`<a>
+- <a href="https://www.github.com/nkymko/caltara">_`https://www.github.com/nkymko/caltara`_<a>
 
 ## November 2022
 - Mendapatkan client pertama dengan project membuat website indeks UMKM untuk Jakpreneur dan Sudin PPAPP Jakarta Utara
 - Membuat website dinamis dengan arsitektur PHP MVC Native
-- <a href="https://www.github.com/nkymko/jakpreneur-ppappju">`https://www.github.com/nkymko/jakpreneur-ppappju`</a>
+- <a href="https://www.github.com/nkymko/jakpreneur-ppappju">_`https://www.github.com/nkymko/jakpreneur-ppappju`_</a>
 
 ## Januari - Maret 2023
 - Memulai Praktik Kerja Lapangan Sesi 1 di instansi Sudin Kominfotik Jakarta Timur
