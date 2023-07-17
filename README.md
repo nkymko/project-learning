@@ -46,7 +46,9 @@ Ini adalah timeline pembelajaran saya selama masa SMK dengan kompetensi keahlian
 - Mempelajari Javascript pada Website Development
 - Membuat mockup E-Commerce dengan Bootstrap 5 dan Vanilla CSS
 - Memulai full stack development
+- Membangun arsitektur Back-End untuk sistem E-Learning SMPN 170 menggunakan PHP MVC Native
 - <a target="_BLANK" href="https://www.github.com/nkymko/strumville">_`https://www.github.com/nkymko/strumville`_</a>
+- <a target="_BLANK" href="https://www.github.com/nkymko/E-LEARNING-SMPN170">_`https://www.github.com/nkymko/E-LEARNING-SMPN170`_</a>
 
 ## Juni 2023
 - Mempelajari basic Cyber Security
